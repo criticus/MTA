@@ -1,1 +1,1 @@
-SMS Aggregators Gateways
+Implementation of the third parties (FourInfo, MxTelecom, ImpactMobile, Motricity, SmsCloud) SMS Aggregators API. Abstract class is used to simplify adding new gateways and implement DRY principle.  
